@@ -1,4 +1,6 @@
-# ParticleRemote
+# Repository moved to [GitLab](hhttps://gitlab.com/Feserich/ParticleRemote-Android)
+
+# (Deprecated) ParticleRemote
 This is an Android app to remote control a little home automation with a Particle device. 
 The connection is over the internet through the [Particle Cloud](https://www.particle.io/products/platform/particle-cloud).
 The app uses the [Particle Android Cloud SDK](https://github.com/spark/spark-sdk-android) to call functions or read values from the Particle device.
