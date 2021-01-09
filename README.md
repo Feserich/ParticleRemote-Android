@@ -1,4 +1,4 @@
-# Repository moved to [GitLab](hhttps://gitlab.com/Feserich/ParticleRemote-Android)
+# Repository moved to [GitLab](https://gitlab.com/Feserich/ParticleRemote-Android)
 
 # (Deprecated) ParticleRemote
 This is an Android app to remote control a little home automation with a Particle device. 
